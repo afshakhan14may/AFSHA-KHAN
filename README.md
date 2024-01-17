@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afshakhan14may&show_icons=true&hide=contribs&theme=dark)
 
 ## Commit Scale
 
